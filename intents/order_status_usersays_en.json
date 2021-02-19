@@ -1,0 +1,132 @@
+[
+  {
+    "id": "1b09fe39-828e-4f01-96b8-b3be7d0e68dd",
+    "data": [
+      {
+        "text": "Haven\u0027t received my food yet",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8f9168b2-0387-4373-bcbf-d02338446aef",
+    "data": [
+      {
+        "text": "i haven\u0027t received my order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "291bcd95-e2f5-4f0d-8bfd-4f5f082f13d8",
+    "data": [
+      {
+        "text": "tell me where is my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "850208b4-92cd-4d95-a918-7436adeb0e6a",
+    "data": [
+      {
+        "text": "when will the order come",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "976b2973-5849-49ec-85c8-640e7e70cdd1",
+    "data": [
+      {
+        "text": "hello, when will i receive my food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9b9416b-2227-4382-858a-708cf5c2d96a",
+    "data": [
+      {
+        "text": "can you please tell me where is my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "990c1502-698b-4f07-9395-7393420e0218",
+    "data": [
+      {
+        "text": "can you please help me know about my food order status?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a6b387b6-32fa-4d79-bbef-56be23783056",
+    "data": [
+      {
+        "text": "order status please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fac6ae7-f6a0-4c76-aafe-251ce16bf5d1",
+    "data": [
+      {
+        "text": "when will my food arrive?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ad2c6ef-ac5f-44dc-a726-ae0639e46d47",
+    "data": [
+      {
+        "text": "where is my food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

@@ -1,0 +1,52 @@
+{
+  "id": "c2cfd224-ecb9-488c-9d57-843e51536e98",
+  "name": "user_thanks",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "18ac2711-7d5d-4f09-8529-49c1feee0694",
+          "name": "unit-weight",
+          "required": false,
+          "dataType": "@sys.unit-weight",
+          "value": "$unit-weight",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Thanks a lot for your cooperation.",
+            "Visit us again. Thanks a lot for your support.",
+            "Thanks so much for reaching out! Come Again"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

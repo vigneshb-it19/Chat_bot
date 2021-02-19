@@ -1,0 +1,227 @@
+[
+  {
+    "id": "1123c355-bc84-4eb7-8d5e-448c14d0639e",
+    "data": [
+      {
+        "text": "order food from ",
+        "userDefined": false
+      },
+      {
+        "text": "indian",
+        "meta": "@sys.geo-country",
+        "alias": "geo-country",
+        "userDefined": false
+      },
+      {
+        "text": " cusine",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a113c7c3-5404-4f94-aa74-cab205e87871",
+    "data": [
+      {
+        "text": "i need food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e316937e-7b38-420f-b263-9fb015060d94",
+    "data": [
+      {
+        "text": "i wanna eat",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f1acd9cd-ae64-4421-a5a2-d08265181b6e",
+    "data": [
+      {
+        "text": "im hungry",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c761cdd8-fb3d-407f-9cff-b5147f3a224e",
+    "data": [
+      {
+        "text": "I am looking to order Chinese food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "61e50770-1161-4822-ae2a-e3a1dd53746f",
+    "data": [
+      {
+        "text": "I am looking to order ",
+        "userDefined": false
+      },
+      {
+        "text": "Thai",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0e47a6f3-a803-48d4-9a59-cf183c724f76",
+    "data": [
+      {
+        "text": "I want to order food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3cf9db91-d4f6-4227-aef3-113c4fcc4889",
+    "data": [
+      {
+        "text": "Can you please order food for me?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4fd59d08-02dc-4044-b966-a21933ee70aa",
+    "data": [
+      {
+        "text": "Would you please help me to order food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d3204ad3-d054-4458-bc27-55dea1d8ab5b",
+    "data": [
+      {
+        "text": "I want to place an order",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "eb411880-74dd-48fe-bf93-30f8cd96ef12",
+    "data": [
+      {
+        "text": "I want to place an order for ",
+        "userDefined": false
+      },
+      {
+        "text": "Chinese",
+        "meta": "@sys.language",
+        "alias": "language",
+        "userDefined": false
+      },
+      {
+        "text": " food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d2245f4a-7ab2-4169-8358-6880e92f62d9",
+    "data": [
+      {
+        "text": "Take my order please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "fd42983f-8a6e-4fa9-8723-3bca38c87e8e",
+    "data": [
+      {
+        "text": "Can you please take my order for food?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "afea212f-f119-4e6d-93a4-2a88fc61671d",
+    "data": [
+      {
+        "text": "I want to order food asap",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f3b1d710-208a-4cac-95e6-31716f80b2e5",
+    "data": [
+      {
+        "text": "I want food",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

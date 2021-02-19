@@ -1,0 +1,92 @@
+{
+  "id": "2d12d8ad-c65d-4627-be72-30eb6d4a4815",
+  "name": "item_des",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "ed5f15fd-347a-454b-8afb-9516fca174ef",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "c115afaa-b67d-4f6b-898e-0b9ded54bcbf",
+          "name": "food_item_entity",
+          "required": false,
+          "dataType": "@food_item_entity",
+          "value": "$food_item_entity",
+          "defaultValue": "",
+          "isList": true,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "2120a7e8-2ea7-4fdd-ab1f-89d4793193f5",
+          "name": "number1",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "744139e8-c88d-4c96-ab6d-3753534d9084",
+          "name": "food_item_entity1",
+          "required": false,
+          "dataType": "@food_item_entity",
+          "value": "$food_item_entity1",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Done. Your final amount is XYZ and your order is placed for $number $food_item_entity and $number1 $food_item_entity1"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

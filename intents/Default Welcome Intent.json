@@ -1,0 +1,42 @@
+{
+  "id": "76b9bea7-c65e-4c86-92e2-4453b76d021d",
+  "name": "Default Welcome Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.welcome",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Hi! Welcome to OnlineEatsBot. How are you doing?",
+            "Hello! Welcome to OnlineEatsBot. How can I help you?",
+            "Good day! Welcome to OnlineEatsBot. What can I do for you today?",
+            "Greetings! Welcome to OnlineEatsBot. How can I assist?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [
+    {
+      "name": "WELCOME"
+    }
+  ],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

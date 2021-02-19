@@ -1,0 +1,50 @@
+{
+  "id": "d6a6399d-c238-402a-a04e-15f2521a2cba",
+  "name": "user_order_id",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "16b6121c-8d01-46a7-8fe7-80e236e859cf",
+          "name": "number",
+          "required": false,
+          "dataType": "@sys.number",
+          "value": "$number.original",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Order Status for Order ID: $number .The delivery guy is in your locality, your food will\narrive in about 5 minutes."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,96 @@
+[
+  {
+    "id": "7f7edd6e-385b-4b11-ae16-ef79eb02342b",
+    "data": [
+      {
+        "text": "I would like to have",
+        "userDefined": false
+      },
+      {
+        "text": " 1",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "biriyani",
+        "meta": "@food_item_entity",
+        "alias": "food_item_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "mango lassi",
+        "meta": "@food_item_entity",
+        "alias": "food_item_entity1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e2510a66-dab2-4177-9b75-7774382b8c3c",
+    "data": [
+      {
+        "text": "One",
+        "meta": "@sys.number",
+        "alias": "number",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "chicken dumpling",
+        "meta": "@food_item_entity",
+        "alias": "food_item_entity",
+        "userDefined": true
+      },
+      {
+        "text": " and ",
+        "userDefined": false
+      },
+      {
+        "text": "two",
+        "meta": "@sys.number",
+        "alias": "number1",
+        "userDefined": true
+      },
+      {
+        "text": " ",
+        "userDefined": false
+      },
+      {
+        "text": "spring rolls.",
+        "meta": "@food_item_entity",
+        "alias": "food_item_entity1",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

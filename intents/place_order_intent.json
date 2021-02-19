@@ -1,0 +1,66 @@
+{
+  "id": "d3065585-4e78-4291-b29e-9dd06e4c796a",
+  "name": "place_order_intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "68c371e0-7a82-4885-8cca-ef97e57bca24",
+          "name": "language",
+          "required": false,
+          "dataType": "@sys.language",
+          "value": "$language",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        },
+        {
+          "id": "dc922bf3-4b1a-4e27-9661-438095443c9a",
+          "name": "geo-country",
+          "required": false,
+          "dataType": "@sys.geo-country",
+          "value": "$geo-country",
+          "defaultValue": "",
+          "isList": false,
+          "prompts": [],
+          "promptMessages": [],
+          "noMatchPromptMessages": [],
+          "noInputPromptMessages": [],
+          "outputDialogContexts": []
+        }
+      ],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure, What would you like to order today?",
+            "Definitely, What would you like to have today?",
+            "Certainly, I\u0027ll try to help you with that. What are you feeling like eating\ntoday?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
